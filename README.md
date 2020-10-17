@@ -11,7 +11,7 @@ yarn
 ```
 ## Set .env variables
 
-Copy the content of .end sample on archive .env and set as variables.
+Copy the content of '.env sample' on archive '.env' and set as variables.
 
 ## Create database
 
@@ -21,7 +21,7 @@ For create tables on database is required run migrations:
 yarn typeorm migration:run
 ```
 
-## Run serv
+## Run server
 
 For run server:
 
