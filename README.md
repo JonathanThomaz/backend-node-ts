@@ -1,6 +1,6 @@
 Esse é um projeto da NWL da rocketseat
 
-## Install dependecies
+## Install dependencies
 
 Após clonar o projeto:
 
