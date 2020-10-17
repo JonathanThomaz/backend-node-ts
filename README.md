@@ -2,7 +2,7 @@ Esse é um projeto da NLW da rocketseat
 
 ## Install dependencies
 
-Após clonar o projeto:
+After cloning the project:
 
 ```bash
 npm install
