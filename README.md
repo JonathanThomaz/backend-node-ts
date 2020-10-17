@@ -21,7 +21,7 @@ For create tables on database is required run migrations:
 yarn typeorm migration:run
 ```
 
-## Run serv
+## Run server
 
 For run server:
 
