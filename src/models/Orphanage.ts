@@ -12,7 +12,7 @@ export default class Orphanage{
     latitude: number;
     
     @Column()
-    longitute: number;
+    longitude: number;
     
     @Column()
     about:string;
@@ -21,8 +21,8 @@ export default class Orphanage{
     instructions:string;
     
     @Column()
-    opengin_hours:string;
+    opening_hours:string;
     
     @Column()
-    opengin_on_weekends:boolean;
+    open_on_weekends:boolean;
 }
