@@ -1,4 +1,4 @@
-Esse é um projeto da NWL da rocketseat
+Esse é um projeto da NLW da rocketseat
 
 ## Install dependencies
 
